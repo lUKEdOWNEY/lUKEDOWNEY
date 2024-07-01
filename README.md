@@ -1,4 +1,4 @@
-### Hi there, Here is my personal projects.
+### Hi there, here is my personal projects.
 
 <!--
 **lUKEdOWNEY/lUKEDOWNEY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
